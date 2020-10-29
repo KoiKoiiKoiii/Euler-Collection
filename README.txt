@@ -1,0 +1,1 @@
+This is a collection of all of the completed Project Euler challenges *(Albeit, these are messy, and I've yet to worry about cleaning my code up, but I'd like to do these to prove to myself I am capable. If you have any criticisms, please throw them my way so I can improve my coding performance.)*
